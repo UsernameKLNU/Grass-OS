@@ -38,7 +38,7 @@ addfakefan [数量] 增加假粉
 
 wf  [IP]  让某人进入法庭，进入法庭的用户无法使用电脑
 
-upload [日志文件] 向seeyourbacOS官方发送一个日志文件来指出bug
+upload [日志文件] 向草OS官方发送一个日志文件来指出bug
 
 Primaryschool [IP] 给一个IP地址发送小学课本
 
@@ -53,6 +53,8 @@ Almostdone [Ip]限制一个IP地址的所有操作
 fakehk 假装变成黑客
 
 see [ip] [文件] 浏览该ip地址用户的文件
+
+fakeJSQ [题目] 算出来都是错的计算器，哪里不会，错哪里！
 
 shutdown [计算机ID] [用户名] [用户密码] [“草”用户的密码] [计算机token] [核爆炸密码] [俄罗斯今年被网络攻击多少次] [7654896574965*7895564654+48576594086543-5684/32等于多少] 关机，但是有多麻烦
 ```
@@ -73,7 +75,7 @@ shutdown [计算机ID] [用户名] [用户密码] [“草”用户的密码] [�
 
 
 ```
-Copyright Grass Inc. 54188
+Copyright Grass Inc. 114514
 ```
 
 
